@@ -9,4 +9,4 @@
 
 ![Image](Hauenschild3.jpg)
 
-<p align="center">b) Thematic map about Friedrich Hauenschild (1783-1830) <a title="Open image in new tab" href="https://sanjasaric.github.io/HaDUe/Hauenschild3_draft2_Zeichenfläche 1RGB.jpg" target="_blank">↗</a>, Philipp Hofeneder 2021, CC-BY-SA</p>
+<p align="center">b) Thematic map about Friedrich Hauenschild (1783-1830) <a title="Open image in new tab" href="https://sanjasaric.github.io/HaDUe/Hauenschild3.jpg" target="_blank">↗</a>, Philipp Hofeneder 2021, CC-BY-SA</p>
