@@ -1,4 +1,4 @@
-## Translation area of the Habsburg Monarchy: multilingual knowledge circulation between 1848 and 1918
+## Translation Spaces: Circulation of Knowledge in the Habsburg Monarchy between 1848 and 1918
 
 <p>Project coordinator: <a href="https://homepage.uni-graz.at/de/philipp.hofeneder/" title="Philipp Hofeneder website" target="_blank">Philipp Hofeneder</a></p>
 <p>This project is currently in development.</p>
